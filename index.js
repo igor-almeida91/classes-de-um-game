@@ -19,7 +19,7 @@ class hero {
             ataque = "usou espada"
         }
         else{
-            ataque = "nao realizou nenhum ataque"
+            ataque = "os punhos"
         }
 
         console.log(`O ${this.classe} atacou usando ${ataque}`);
